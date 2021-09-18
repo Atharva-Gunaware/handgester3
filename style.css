@@ -1,0 +1,66 @@
+body
+{
+  color: white;
+  background: goldenrod;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 20px;
+  border-radius: 20px;
+  letter-spacing: 10px;
+  width: 100%;
+}
+
+label{
+  color:rebeccapurple;
+  font-size: 20px;
+}
+
+.emotion_name{
+  font-size: 40px;
+  color:khaki;
+}
+
+.emoji{
+  font-size: 40px ;
+}
+
+.copyright_footer{
+  color: black;
+  background-color:silver;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+#result_gesture_name{
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: bisque;
+
+}
